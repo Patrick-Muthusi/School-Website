@@ -1,0 +1,56 @@
+body{
+	background-color: white;
+	padding: 0;
+	margin: 0;
+	background-image: url(Images/background1.jpg);
+}
+a{
+	text-decoration: bold;
+	size: 1.9em;
+
+}
+h3{
+	text-align: center;
+	text-decoration: bold;
+	padding-bottom: 0px;
+	padding-left: 5px;
+	padding-top: 0px;
+	padding-right: 5px;
+	font-size: 2.0em;
+}
+
+ul li:hover{
+	color: black;
+}
+.portal{
+	background-image: url(Images/background1.jpg);
+	height: 800px;
+	width: 120%;
+	background-repeat: no-repeat;
+}
+footer{
+	background-color: green;
+	border: 2px dotted pink;
+	text-align: center;
+}
+img{
+	width: 14%;
+	margin-left: 1.9rem;
+	margin-top: -4%;
+}
+h4{
+		widows: 100%;
+	float: left;
+	font-weight: bold italic;
+	font-size: 1.9em;
+	text-decoration: none;
+	padding-top: 0px;
+	padding-left: 30px;
+	padding-top: 0px;
+	padding-left: 30px;
+	border: 2px gray;
+	margin: 30px;
+}
+h4:hover{
+	background-color: blue;
+}

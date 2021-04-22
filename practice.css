@@ -1,0 +1,41 @@
+#Courses{
+	display: flex;
+	text-align: center;
+
+}
+#Courses img{
+	width: 250px;
+
+}
+.paragraph{
+	text-align: center;
+	/*background-image: url(tweeter.png);*/
+	background-color: pink;
+}
+footer{
+	size: 18px;
+	text-decoration: bold;
+	background-color: blue;
+	margin-top: 100px;
+	text-transform: capitalize;
+
+}
+/*#Courses{
+ 	display: flex;
+ 	text-align: center;
+ }
+
+ #Courses img{
+ 	width: 250px;*/
+ /*	border-radius: 10px;
+ 	border: 2px solid #000;*/
+
+ }
+ /*.apply{
+ 	margin-top: 4%;
+ 	background-color: orangered;
+ 	padding: 0.7rem 1rem;
+ 	color: #fff;
+ 	border: none;
+ 	border-radius: 10px;
+ }*/

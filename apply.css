@@ -1,0 +1,31 @@
+body{
+	background-color: pink;
+	align-content: center;
+}
+
+.my-form{
+	padding: 20px;
+
+}
+/*tergeting a class inside another class*/
+.my-form .form-group{
+	padding-bottom: 20px;
+}
+.my-form label{
+	 display: block;
+}
+.my-form input[type="text"], .my-form textarea{
+	padding: 8px;
+	width: 50%;
+}
+.my-form input[type="submit"]{
+	background-color: #333;
+	color: white;
+	padding: 10px 15px;
+	border: none;
+}
+footer{
+	background-color: green;
+	border: 2px dotted pink;
+	text-align: center;
+}

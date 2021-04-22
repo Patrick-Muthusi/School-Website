@@ -1,0 +1,21 @@
+body{
+background-image: url(Images/events.jpg);
+size: 100%;
+}
+h4{
+	float: left;
+	color: green;
+	size: 20px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+
+}
+h4:hover{
+	background-color: blue;
+}
+footer{
+	padding-top: 500px;
+    text-align: center;
+}

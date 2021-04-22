@@ -1,0 +1,46 @@
+body{
+	background-color: pink;
+	align-content: center;
+}
+
+.contact{
+	padding: 20px;
+
+}
+/*tergeting a class inside another class*/
+.contact .my-class{
+	padding-bottom: 20px;
+}
+.contact label{
+	 display: block;
+}
+.contact input[type="text"], .contact textarea{
+	padding: 8px;
+	width: 50%;
+}
+.contact input[type="submit"]{
+	background-color: #333;
+	color: white;
+	padding: 10px 15px;
+	border: none;
+}
+footer{
+	background-color: green;
+	border: 2px dotted pink;
+	text-align: center;
+}
+.button{
+	padding: 10px;
+	margin: 10px;
+}
+#Courses{
+ 	display: flex;
+ 	text-align: center;
+ }
+
+ #Courses img{
+ 	width: 250px;
+ 	border-radius: 10px;
+ 	border: 2px solid #000;
+
+ }
